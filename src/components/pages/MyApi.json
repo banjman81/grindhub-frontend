@@ -1,0 +1,66 @@
+{
+    "jobs" : [
+                {
+                    "title" : "Need a house cleaner",
+                    "description" : "I have a 6 bed 4 bath house that need cleaning.",
+                    "location" : "Randomville, CA",
+                    "length" : "5 hr",
+                    "listerName" : "John Hancock"
+                },
+                {
+                    "title" : "Looking for a frontend developer",
+                    "description" : "Looking for a front end developer to make my persnal site looks pretty.",
+                    "location" : "Randomville, CA",
+                    "length" : "16 hr",
+                    "listerName" : "Aaron Jones"
+                },
+                {
+                    "title" : "Urgent need of a babysitter",
+                    "description" : "I will be partying in Vegas and i need someonbe to watch my kids for a few aday.",
+                    "location" : "Randomville, CA",
+                    "length" : "2 days",
+                    "listerName" : "Bobby Schmidt"
+                },
+                {
+                    "title" : "Looking for extras for a movies",
+                    "description" : "I need background extras for my new movies. Full day and meals provided.",
+                    "location" : "Randomville, CA",
+                    "length" : "8 hr",
+                    "listerName" : "Jordan Peele"
+                },
+                {
+                    "title" : "Looking for a smart person to do my Math homework",
+                    "description" : "I need somone who is proficient in algebra to do my homework while I party.",
+                    "location" : "Randomville, CA",
+                    "length" : "2 hr",
+                    "listerName" : "Kenny Lee"
+                }
+            ],
+    "workers": [
+                {
+                    "name" : "Sonny Kim",
+                    "occupation": "webdeveloper",
+                    "hourlyWage" : "$45"
+                },
+                {
+                    "name" : "Matthew Perry",
+                    "occupation": "carpenter",
+                    "hourlyWage" : "$30"
+                },
+                {
+                    "name" : "Lemar Jackson",
+                    "occupation": "Algebra Teacher",
+                    "hourlyWage" : "$45"
+                },
+                {
+                    "name" : "Arron Shaw",
+                    "occupation": "Handyman",
+                    "hourlyWage" : "$25"
+                },
+                {
+                    "name" : "Emily Wattson",
+                    "occupation": "housekeeper",
+                    "hourlyWage" : "$17"
+                }
+                ]
+}
